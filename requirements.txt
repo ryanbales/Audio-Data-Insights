@@ -11,3 +11,5 @@ simplejson==3.16.0
 eyeD3==0.8.8
 pydub==0.23.0
 boto3==1.9.74
+gensim==3.6.0
+nltk==3.4
