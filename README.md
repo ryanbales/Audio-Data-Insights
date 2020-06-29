@@ -7,7 +7,7 @@ Digital Audio data contains sounds that have been recorded and converted into di
 The related presentation slide deck can be found [here](https://t.co/oCUZt4Q5xp).
 
 ## Shared Data
-For ease of setup, you can download the data needed to run the notebooks in this repo [here](https://rbales-shared-data.s3.amazonaws.com/gathering-insights-from-audio-data.zip).  Once download, just unzip the zip file and place the contents in a folder named ```data``` inside of your working directory.
+For ease of setup, you can download the data needed to run the notebooks in this repo [here](https://rbales-shared-data.s3.amazonaws.com/gathering-insights-from-audio-data.zip).  Once downloaded, just unzip the compressed file and place the contents in a folder named ```data``` inside of your working directory.
 
 ## Running the Notebooks
 
