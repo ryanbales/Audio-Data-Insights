@@ -8,7 +8,7 @@ numpy==1.15.4
 scipy==1.2.0
 hmmlearn==0.2.1
 simplejson==3.16.0
-eyeD3==0.8.8
+eyeD3==0.8.12
 pydub==0.23.0
 boto3==1.9.74
 gensim==3.6.0
